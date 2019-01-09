@@ -1,8 +1,6 @@
 BestFlightPlan
 -------------------
 
-This is a candidate solution for the term project of COMP20230.
-
 The program reads a file with a list of airports plus a given aircraft and writes the most economic route to a file.
 
 
