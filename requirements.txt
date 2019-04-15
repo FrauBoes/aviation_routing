@@ -9,7 +9,7 @@ click==6.7
 cryptography==2.2.2
 future==0.16.0
 idna==2.6
-Jinja2==2.10
+Jinja2~>2.10.1
 jinja2-time==0.2.0
 MarkupSafe==1.0
 more-itertools==4.1.0
